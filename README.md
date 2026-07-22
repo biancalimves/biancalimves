@@ -37,7 +37,7 @@
 
 <img src="https://skillicons.dev/icons?i=discord" />
 
-<a href="https://www.instagram.com/ang3lcrowd" target="_blank">
+<a href="https://www.instagram.com/ang3lcr0wd" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
