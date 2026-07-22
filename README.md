@@ -1,16 +1,53 @@
-## Hi there 👋
+## Olá! Eu sou a Bianca
 
-<!--
-**biancalimves/biancalimves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Desenvolvedora Autônoma e Freelancer
+- Cursando Ciência da Computação
+- Estudando Desenvolvimento Back-end e APIs
+- Pronouns: ela/dela
+- Criando sites e projetos 
 
-Here are some ideas to get you started:
+##  Used Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cs,java,python,git,github,vscode" />
+
+</p> 
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biancalimves&theme=github-dark" />
+</p>
+
+---
+## 📫 Contato
+
+<p align="left">
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bianca-alves-810a74418/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:bianca.allinns@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<img src="https://skillicons.dev/icons?i=discord" />
+
+<a href="https://www.instagram.com/reiyourrheart" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="./ezgif.com-crop.gif" width="500"/>
+</p>
+
+---
+
