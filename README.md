@@ -50,4 +50,4 @@
 </p>
 
 ---
-
+![Snake animation](https://raw.githubusercontent.com/biancalimves/biancalimves/output/github-contribution-grid-snake.svg)
