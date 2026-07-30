@@ -49,3 +49,17 @@
 
 ---
 ![Snake animation](https://raw.githubusercontent.com/biancalimves/biancalimves/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 📜 Certificações
+
+  🎓 **Algoritmos e Programação – Centro Universitário Una (160 horas)**
+  - Certificação concluída em julho de 2026.
+  - Competências: lógica de programação, resolução de problemas, desenvolvimento de algoritmos e programação.
+
+
+
+
+    🤖 **Ânima TECH WEEK XI**
+  - IA, AWS Generative AI, Oracle AI Bootcamp, n8n e inovação tecnológica (27h) | Mar/2026
